@@ -1,0 +1,22 @@
+*{
+    background-color:rgb(9, 9, 9);
+}
+.one {
+color: rgb(171, 118, 5);
+}
+td {
+    background-color: bisque;
+    padding: 16px;
+    border: 2px solid #e43333;
+    width: 50px;
+    height: 40px;
+    text-align: center;
+}
+.one {
+    background-color: rgba(222, 66, 31, 0.805);
+    padding: 10px;
+    border: 1px solid;
+    width: 55px;
+    height: 50px;
+    font-size: 35px;
+}
